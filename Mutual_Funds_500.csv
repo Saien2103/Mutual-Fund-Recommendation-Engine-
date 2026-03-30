@@ -1,0 +1,501 @@
+﻿Bank / Company,Age Group,Min. Investment,Duration,Risk,Exp. Return,Investment Type,Sector/Industry,Min. Income
+DSP Savings,25-70,₹500,1-3 Years,Moderate,11.2%,Hybrid,Balanced Debt/Equity,₹3L+
+Tata Liquid,18-80,"₹1,000",1-3 Months,Low,6.4%,Debt (Liquid),"T-Bills, Repo",Any
+DSP Small Cap,25-55,₹500,5+ Yrs,Very High,19%,Large Cap,Consumer Goods,₹4L+
+Aditya Birla Mid Cap,25-55,₹500,5+ Yrs,Very High,19%,Flexi Cap,Digital Services,₹4L+
+Axis Large Cap,25-55,₹500,5+ Yrs,Very High,20%,Small Cap,Digital Services,₹4L+
+HDFC Savings,25-70,₹500,1-3 Years,Moderate,9.7%,Hybrid,Balanced Debt/Equity,₹3L+
+Kotak Liquid,18-80,"₹1,000",1-3 Months,Low,7.5%,Debt (Liquid),"T-Bills, Repo",Any
+Nippon Liquid,18-80,"₹1,000",1-3 Months,Low,6.5%,Debt (Liquid),"T-Bills, Repo",Any
+Tata Liquid,18-80,"₹1,000",1-3 Months,Low,6.2%,Debt (Liquid),"T-Bills, Repo",Any
+Invesco Savings,25-70,₹500,1-3 Years,Moderate,11.1%,Hybrid,Balanced Debt/Equity,₹3L+
+SBI Small Cap,25-55,₹500,5+ Yrs,Very High,18%,Large Cap,Infrastructure,₹4L+
+Axis Liquid,18-80,"₹1,000",1-3 Months,Low,6.1%,Debt (Liquid),"T-Bills, Repo",Any
+ICICI Liquid,18-80,"₹1,000",1-3 Months,Low,7.0%,Debt (Liquid),"T-Bills, Repo",Any
+IDFC Multi Cap,25-55,₹500,5+ Yrs,Very High,14%,Flexi Cap,Digital Services,₹4L+
+SBI Large Cap,25-55,₹500,5+ Yrs,Very High,20%,Small Cap,Automobile,₹4L+
+HDFC Liquid,18-80,"₹1,000",1-3 Months,Low,7.0%,Debt (Liquid),"T-Bills, Repo",Any
+ICICI Multi Cap,25-55,₹500,5+ Yrs,Very High,18%,Multi Cap,"BFSI, IT",₹4L+
+Tata Multi Cap,25-55,₹500,5+ Yrs,Very High,19%,Flexi Cap,Automobile,₹4L+
+Axis Savings,25-70,₹500,1-3 Years,Moderate,9.8%,Hybrid,Balanced Debt/Equity,₹3L+
+Axis Liquid,18-80,"₹1,000",1-3 Months,Low,6.2%,Debt (Liquid),"T-Bills, Repo",Any
+Mirae Savings,25-70,₹500,1-3 Years,Moderate,10.6%,Hybrid,Balanced Debt/Equity,₹3L+
+Quant Liquid,18-80,"₹1,000",1-3 Months,Low,6.7%,Debt (Liquid),"T-Bills, Repo",Any
+Tata Multi Cap,25-55,₹500,5+ Yrs,Very High,15%,Small Cap,Digital Services,₹4L+
+Aditya Birla Mid Cap,25-55,₹500,5+ Yrs,Very High,19%,Large Cap,Automobile,₹4L+
+Tata Liquid,18-80,"₹1,000",1-3 Months,Low,6.4%,Debt (Liquid),"T-Bills, Repo",Any
+Quant Savings,25-70,₹500,1-3 Years,Moderate,9.1%,Hybrid,Balanced Debt/Equity,₹3L+
+Nippon Savings,25-70,₹500,1-3 Years,Moderate,8.5%,Hybrid,Balanced Debt/Equity,₹3L+
+IDFC Liquid,18-80,"₹1,000",1-3 Months,Low,6.8%,Debt (Liquid),"T-Bills, Repo",Any
+Canara Liquid,18-80,"₹1,000",1-3 Months,Low,6.9%,Debt (Liquid),"T-Bills, Repo",Any
+Aditya Birla Liquid,18-80,"₹1,000",1-3 Months,Low,7.1%,Debt (Liquid),"T-Bills, Repo",Any
+Nippon Savings,25-70,₹500,1-3 Years,Moderate,11.0%,Hybrid,Balanced Debt/Equity,₹3L+
+Kotak Flexi Cap,25-55,₹500,5+ Yrs,Very High,18%,Mid Cap,Energy & Oil,₹4L+
+IDFC Liquid,18-80,"₹1,000",1-3 Months,Low,6.4%,Debt (Liquid),"T-Bills, Repo",Any
+Tata Savings,25-70,₹500,1-3 Years,Moderate,9.7%,Hybrid,Balanced Debt/Equity,₹3L+
+HDFC Savings,25-70,₹500,1-3 Years,Moderate,9.8%,Hybrid,Balanced Debt/Equity,₹3L+
+Quant Multi Cap,25-55,₹500,5+ Yrs,Very High,20%,Large Cap,"Pharma, Tech",₹4L+
+Quant Liquid,18-80,"₹1,000",1-3 Months,Low,6.6%,Debt (Liquid),"T-Bills, Repo",Any
+ICICI Liquid,18-80,"₹1,000",1-3 Months,Low,6.2%,Debt (Liquid),"T-Bills, Repo",Any
+Mirae Liquid,18-80,"₹1,000",1-3 Months,Low,6.4%,Debt (Liquid),"T-Bills, Repo",Any
+DSP Liquid,18-80,"₹1,000",1-3 Months,Low,6.2%,Debt (Liquid),"T-Bills, Repo",Any
+DSP Savings,25-70,₹500,1-3 Years,Moderate,9.4%,Hybrid,Balanced Debt/Equity,₹3L+
+SBI Liquid,18-80,"₹1,000",1-3 Months,Low,7.1%,Debt (Liquid),"T-Bills, Repo",Any
+Tata Liquid,18-80,"₹1,000",1-3 Months,Low,7.2%,Debt (Liquid),"T-Bills, Repo",Any
+Tata Liquid,18-80,"₹1,000",1-3 Months,Low,6.8%,Debt (Liquid),"T-Bills, Repo",Any
+IDFC Mid Cap,25-55,₹500,5+ Yrs,Very High,18%,Flexi Cap,Consumer Goods,₹4L+
+Mirae Multi Cap,25-55,₹500,5+ Yrs,Very High,16%,Small Cap,Energy & Oil,₹4L+
+UTI Large Cap,25-55,₹500,5+ Yrs,Very High,16%,Large Cap,Infrastructure,₹4L+
+Kotak Mid Cap,25-55,₹500,5+ Yrs,Very High,17%,Small Cap,Energy & Oil,₹4L+
+SBI Liquid,18-80,"₹1,000",1-3 Months,Low,7.3%,Debt (Liquid),"T-Bills, Repo",Any
+Invesco Savings,25-70,₹500,1-3 Years,Moderate,10.0%,Hybrid,Balanced Debt/Equity,₹3L+
+Tata Savings,25-70,₹500,1-3 Years,Moderate,10.2%,Hybrid,Balanced Debt/Equity,₹3L+
+Nippon Savings,25-70,₹500,1-3 Years,Moderate,10.1%,Hybrid,Balanced Debt/Equity,₹3L+
+Quant Savings,25-70,₹500,1-3 Years,Moderate,10.7%,Hybrid,Balanced Debt/Equity,₹3L+
+Nippon Savings,25-70,₹500,1-3 Years,Moderate,10.0%,Hybrid,Balanced Debt/Equity,₹3L+
+Canara Liquid,18-80,"₹1,000",1-3 Months,Low,6.2%,Debt (Liquid),"T-Bills, Repo",Any
+Canara Liquid,18-80,"₹1,000",1-3 Months,Low,6.3%,Debt (Liquid),"T-Bills, Repo",Any
+Canara Savings,25-70,₹500,1-3 Years,Moderate,10.0%,Hybrid,Balanced Debt/Equity,₹3L+
+DSP Liquid,18-80,"₹1,000",1-3 Months,Low,6.5%,Debt (Liquid),"T-Bills, Repo",Any
+IDFC Savings,25-70,₹500,1-3 Years,Moderate,10.4%,Hybrid,Balanced Debt/Equity,₹3L+
+Mirae Flexi Cap,25-55,₹500,5+ Yrs,Very High,19%,Flexi Cap,Energy & Oil,₹4L+
+ICICI Liquid,18-80,"₹1,000",1-3 Months,Low,6.1%,Debt (Liquid),"T-Bills, Repo",Any
+SBI Liquid,18-80,"₹1,000",1-3 Months,Low,6.9%,Debt (Liquid),"T-Bills, Repo",Any
+Mirae Liquid,18-80,"₹1,000",1-3 Months,Low,7.0%,Debt (Liquid),"T-Bills, Repo",Any
+Canara Mid Cap,25-55,₹500,5+ Yrs,Very High,16%,Mid Cap,"Pharma, Tech",₹4L+
+Aditya Birla Liquid,18-80,"₹1,000",1-3 Months,Low,6.1%,Debt (Liquid),"T-Bills, Repo",Any
+UTI Savings,25-70,₹500,1-3 Years,Moderate,9.9%,Hybrid,Balanced Debt/Equity,₹3L+
+Aditya Birla Savings,25-70,₹500,1-3 Years,Moderate,8.9%,Hybrid,Balanced Debt/Equity,₹3L+
+Mirae Liquid,18-80,"₹1,000",1-3 Months,Low,6.5%,Debt (Liquid),"T-Bills, Repo",Any
+Kotak Flexi Cap,25-55,₹500,5+ Yrs,Very High,16%,Multi Cap,"BFSI, IT",₹4L+
+HDFC Liquid,18-80,"₹1,000",1-3 Months,Low,6.4%,Debt (Liquid),"T-Bills, Repo",Any
+ICICI Liquid,18-80,"₹1,000",1-3 Months,Low,6.3%,Debt (Liquid),"T-Bills, Repo",Any
+Axis Savings,25-70,₹500,1-3 Years,Moderate,11.3%,Hybrid,Balanced Debt/Equity,₹3L+
+Aditya Birla Savings,25-70,₹500,1-3 Years,Moderate,9.1%,Hybrid,Balanced Debt/Equity,₹3L+
+Mirae Liquid,18-80,"₹1,000",1-3 Months,Low,6.6%,Debt (Liquid),"T-Bills, Repo",Any
+HDFC Savings,25-70,₹500,1-3 Years,Moderate,9.1%,Hybrid,Balanced Debt/Equity,₹3L+
+Axis Liquid,18-80,"₹1,000",1-3 Months,Low,6.7%,Debt (Liquid),"T-Bills, Repo",Any
+Kotak Large Cap,25-55,₹500,5+ Yrs,Very High,15%,Mid Cap,Consumer Goods,₹4L+
+IDFC Liquid,18-80,"₹1,000",1-3 Months,Low,6.2%,Debt (Liquid),"T-Bills, Repo",Any
+ICICI Small Cap,25-55,₹500,5+ Yrs,Very High,15%,Mid Cap,"Pharma, Tech",₹4L+
+Canara Liquid,18-80,"₹1,000",1-3 Months,Low,6.7%,Debt (Liquid),"T-Bills, Repo",Any
+Invesco Multi Cap,25-55,₹500,5+ Yrs,Very High,20%,Flexi Cap,Consumer Goods,₹4L+
+Canara Savings,25-70,₹500,1-3 Years,Moderate,10.0%,Hybrid,Balanced Debt/Equity,₹3L+
+Canara Liquid,18-80,"₹1,000",1-3 Months,Low,6.8%,Debt (Liquid),"T-Bills, Repo",Any
+ICICI Mid Cap,25-55,₹500,5+ Yrs,Very High,17%,Small Cap,"Pharma, Tech",₹4L+
+Mirae Mid Cap,25-55,₹500,5+ Yrs,Very High,14%,Mid Cap,Digital Services,₹4L+
+Nippon Flexi Cap,25-55,₹500,5+ Yrs,Very High,20%,Small Cap,"Pharma, Tech",₹4L+
+HDFC Multi Cap,25-55,₹500,5+ Yrs,Very High,16%,Mid Cap,Infrastructure,₹4L+
+IDFC Savings,25-70,₹500,1-3 Years,Moderate,10.4%,Hybrid,Balanced Debt/Equity,₹3L+
+Axis Savings,25-70,₹500,1-3 Years,Moderate,8.6%,Hybrid,Balanced Debt/Equity,₹3L+
+DSP Large Cap,25-55,₹500,5+ Yrs,Very High,18%,Multi Cap,Infrastructure,₹4L+
+ICICI Mid Cap,25-55,₹500,5+ Yrs,Very High,16%,Flexi Cap,Energy & Oil,₹4L+
+Nippon Liquid,18-80,"₹1,000",1-3 Months,Low,6.0%,Debt (Liquid),"T-Bills, Repo",Any
+Kotak Small Cap,25-55,₹500,5+ Yrs,Very High,20%,Large Cap,"BFSI, IT",₹4L+
+DSP Liquid,18-80,"₹1,000",1-3 Months,Low,6.5%,Debt (Liquid),"T-Bills, Repo",Any
+Kotak Savings,25-70,₹500,1-3 Years,Moderate,11.1%,Hybrid,Balanced Debt/Equity,₹3L+
+Aditya Birla Liquid,18-80,"₹1,000",1-3 Months,Low,7.0%,Debt (Liquid),"T-Bills, Repo",Any
+UTI Flexi Cap,25-55,₹500,5+ Yrs,Very High,20%,Mid Cap,"BFSI, IT",₹4L+
+HDFC Savings,25-70,₹500,1-3 Years,Moderate,9.2%,Hybrid,Balanced Debt/Equity,₹3L+
+Axis Small Cap,25-55,₹500,5+ Yrs,Very High,19%,Mid Cap,"Pharma, Tech",₹4L+
+UTI Liquid,18-80,"₹1,000",1-3 Months,Low,7.2%,Debt (Liquid),"T-Bills, Repo",Any
+Aditya Birla Flexi Cap,25-55,₹500,5+ Yrs,Very High,14%,Large Cap,Consumer Goods,₹4L+
+Mirae Multi Cap,25-55,₹500,5+ Yrs,Very High,14%,Multi Cap,Infrastructure,₹4L+
+Quant Savings,25-70,₹500,1-3 Years,Moderate,9.9%,Hybrid,Balanced Debt/Equity,₹3L+
+SBI Savings,25-70,₹500,1-3 Years,Moderate,9.6%,Hybrid,Balanced Debt/Equity,₹3L+
+Nippon Savings,25-70,₹500,1-3 Years,Moderate,9.1%,Hybrid,Balanced Debt/Equity,₹3L+
+Tata Liquid,18-80,"₹1,000",1-3 Months,Low,6.1%,Debt (Liquid),"T-Bills, Repo",Any
+Tata Savings,25-70,₹500,1-3 Years,Moderate,9.0%,Hybrid,Balanced Debt/Equity,₹3L+
+IDFC Liquid,18-80,"₹1,000",1-3 Months,Low,6.5%,Debt (Liquid),"T-Bills, Repo",Any
+Canara Savings,25-70,₹500,1-3 Years,Moderate,9.7%,Hybrid,Balanced Debt/Equity,₹3L+
+Invesco Liquid,18-80,"₹1,000",1-3 Months,Low,6.3%,Debt (Liquid),"T-Bills, Repo",Any
+Tata Liquid,18-80,"₹1,000",1-3 Months,Low,6.2%,Debt (Liquid),"T-Bills, Repo",Any
+ICICI Savings,25-70,₹500,1-3 Years,Moderate,10.5%,Hybrid,Balanced Debt/Equity,₹3L+
+DSP Mid Cap,25-55,₹500,5+ Yrs,Very High,16%,Mid Cap,"Pharma, Tech",₹4L+
+ICICI Savings,25-70,₹500,1-3 Years,Moderate,10.3%,Hybrid,Balanced Debt/Equity,₹3L+
+Tata Small Cap,25-55,₹500,5+ Yrs,Very High,20%,Small Cap,Automobile,₹4L+
+Nippon Savings,25-70,₹500,1-3 Years,Moderate,10.3%,Hybrid,Balanced Debt/Equity,₹3L+
+Axis Savings,25-70,₹500,1-3 Years,Moderate,10.4%,Hybrid,Balanced Debt/Equity,₹3L+
+Aditya Birla Mid Cap,25-55,₹500,5+ Yrs,Very High,15%,Mid Cap,Digital Services,₹4L+
+SBI Liquid,18-80,"₹1,000",1-3 Months,Low,7.0%,Debt (Liquid),"T-Bills, Repo",Any
+Kotak Savings,25-70,₹500,1-3 Years,Moderate,9.2%,Hybrid,Balanced Debt/Equity,₹3L+
+Quant Savings,25-70,₹500,1-3 Years,Moderate,9.8%,Hybrid,Balanced Debt/Equity,₹3L+
+IDFC Savings,25-70,₹500,1-3 Years,Moderate,9.9%,Hybrid,Balanced Debt/Equity,₹3L+
+Nippon Savings,25-70,₹500,1-3 Years,Moderate,10.8%,Hybrid,Balanced Debt/Equity,₹3L+
+Canara Savings,25-70,₹500,1-3 Years,Moderate,9.0%,Hybrid,Balanced Debt/Equity,₹3L+
+Axis Liquid,18-80,"₹1,000",1-3 Months,Low,6.3%,Debt (Liquid),"T-Bills, Repo",Any
+Invesco Liquid,18-80,"₹1,000",1-3 Months,Low,7.2%,Debt (Liquid),"T-Bills, Repo",Any
+UTI Liquid,18-80,"₹1,000",1-3 Months,Low,6.5%,Debt (Liquid),"T-Bills, Repo",Any
+UTI Liquid,18-80,"₹1,000",1-3 Months,Low,6.9%,Debt (Liquid),"T-Bills, Repo",Any
+Tata Savings,25-70,₹500,1-3 Years,Moderate,9.5%,Hybrid,Balanced Debt/Equity,₹3L+
+Quant Liquid,18-80,"₹1,000",1-3 Months,Low,6.7%,Debt (Liquid),"T-Bills, Repo",Any
+Invesco Liquid,18-80,"₹1,000",1-3 Months,Low,7.2%,Debt (Liquid),"T-Bills, Repo",Any
+Canara Liquid,18-80,"₹1,000",1-3 Months,Low,6.8%,Debt (Liquid),"T-Bills, Repo",Any
+ICICI Liquid,18-80,"₹1,000",1-3 Months,Low,7.5%,Debt (Liquid),"T-Bills, Repo",Any
+ICICI Liquid,18-80,"₹1,000",1-3 Months,Low,7.2%,Debt (Liquid),"T-Bills, Repo",Any
+HDFC Savings,25-70,₹500,1-3 Years,Moderate,9.1%,Hybrid,Balanced Debt/Equity,₹3L+
+Axis Multi Cap,25-55,₹500,5+ Yrs,Very High,17%,Flexi Cap,Energy & Oil,₹4L+
+IDFC Large Cap,25-55,₹500,5+ Yrs,Very High,14%,Small Cap,Consumer Goods,₹4L+
+Invesco Savings,25-70,₹500,1-3 Years,Moderate,10.9%,Hybrid,Balanced Debt/Equity,₹3L+
+Mirae Small Cap,25-55,₹500,5+ Yrs,Very High,20%,Small Cap,Digital Services,₹4L+
+Axis Liquid,18-80,"₹1,000",1-3 Months,Low,7.4%,Debt (Liquid),"T-Bills, Repo",Any
+Canara Liquid,18-80,"₹1,000",1-3 Months,Low,7.1%,Debt (Liquid),"T-Bills, Repo",Any
+Tata Small Cap,25-55,₹500,5+ Yrs,Very High,16%,Large Cap,"BFSI, IT",₹4L+
+ICICI Large Cap,25-55,₹500,5+ Yrs,Very High,19%,Flexi Cap,Energy & Oil,₹4L+
+Nippon Small Cap,25-55,₹500,5+ Yrs,Very High,21%,Small Cap,Energy & Oil,₹4L+
+ICICI Liquid,18-80,"₹1,000",1-3 Months,Low,7.2%,Debt (Liquid),"T-Bills, Repo",Any
+Invesco Savings,25-70,₹500,1-3 Years,Moderate,9.6%,Hybrid,Balanced Debt/Equity,₹3L+
+Nippon Flexi Cap,25-55,₹500,5+ Yrs,Very High,16%,Mid Cap,"Pharma, Tech",₹4L+
+ICICI Savings,25-70,₹500,1-3 Years,Moderate,11.5%,Hybrid,Balanced Debt/Equity,₹3L+
+IDFC Liquid,18-80,"₹1,000",1-3 Months,Low,6.3%,Debt (Liquid),"T-Bills, Repo",Any
+UTI Liquid,18-80,"₹1,000",1-3 Months,Low,6.3%,Debt (Liquid),"T-Bills, Repo",Any
+Axis Multi Cap,25-55,₹500,5+ Yrs,Very High,17%,Large Cap,Infrastructure,₹4L+
+Nippon Small Cap,25-55,₹500,5+ Yrs,Very High,16%,Mid Cap,Consumer Goods,₹4L+
+Mirae Savings,25-70,₹500,1-3 Years,Moderate,10.4%,Hybrid,Balanced Debt/Equity,₹3L+
+HDFC Savings,25-70,₹500,1-3 Years,Moderate,11.3%,Hybrid,Balanced Debt/Equity,₹3L+
+Invesco Mid Cap,25-55,₹500,5+ Yrs,Very High,18%,Large Cap,Energy & Oil,₹4L+
+Canara Liquid,18-80,"₹1,000",1-3 Months,Low,7.3%,Debt (Liquid),"T-Bills, Repo",Any
+Axis Liquid,18-80,"₹1,000",1-3 Months,Low,7.0%,Debt (Liquid),"T-Bills, Repo",Any
+SBI Mid Cap,25-55,₹500,5+ Yrs,Very High,21%,Small Cap,Automobile,₹4L+
+Axis Flexi Cap,25-55,₹500,5+ Yrs,Very High,15%,Flexi Cap,Energy & Oil,₹4L+
+Tata Savings,25-70,₹500,1-3 Years,Moderate,9.9%,Hybrid,Balanced Debt/Equity,₹3L+
+Aditya Birla Savings,25-70,₹500,1-3 Years,Moderate,9.3%,Hybrid,Balanced Debt/Equity,₹3L+
+Quant Large Cap,25-55,₹500,5+ Yrs,Very High,15%,Flexi Cap,Consumer Goods,₹4L+
+Quant Savings,25-70,₹500,1-3 Years,Moderate,9.1%,Hybrid,Balanced Debt/Equity,₹3L+
+IDFC Savings,25-70,₹500,1-3 Years,Moderate,9.5%,Hybrid,Balanced Debt/Equity,₹3L+
+Mirae Savings,25-70,₹500,1-3 Years,Moderate,9.6%,Hybrid,Balanced Debt/Equity,₹3L+
+HDFC Savings,25-70,₹500,1-3 Years,Moderate,9.6%,Hybrid,Balanced Debt/Equity,₹3L+
+SBI Liquid,18-80,"₹1,000",1-3 Months,Low,7.2%,Debt (Liquid),"T-Bills, Repo",Any
+Nippon Flexi Cap,25-55,₹500,5+ Yrs,Very High,21%,Mid Cap,Digital Services,₹4L+
+ICICI Liquid,18-80,"₹1,000",1-3 Months,Low,6.6%,Debt (Liquid),"T-Bills, Repo",Any
+IDFC Savings,25-70,₹500,1-3 Years,Moderate,9.8%,Hybrid,Balanced Debt/Equity,₹3L+
+UTI Savings,25-70,₹500,1-3 Years,Moderate,10.9%,Hybrid,Balanced Debt/Equity,₹3L+
+SBI Multi Cap,25-55,₹500,5+ Yrs,Very High,18%,Small Cap,Infrastructure,₹4L+
+DSP Liquid,18-80,"₹1,000",1-3 Months,Low,6.6%,Debt (Liquid),"T-Bills, Repo",Any
+SBI Liquid,18-80,"₹1,000",1-3 Months,Low,6.1%,Debt (Liquid),"T-Bills, Repo",Any
+Kotak Savings,25-70,₹500,1-3 Years,Moderate,10.3%,Hybrid,Balanced Debt/Equity,₹3L+
+Invesco Savings,25-70,₹500,1-3 Years,Moderate,9.4%,Hybrid,Balanced Debt/Equity,₹3L+
+Invesco Savings,25-70,₹500,1-3 Years,Moderate,10.0%,Hybrid,Balanced Debt/Equity,₹3L+
+Invesco Small Cap,25-55,₹500,5+ Yrs,Very High,14%,Multi Cap,"BFSI, IT",₹4L+
+Kotak Liquid,18-80,"₹1,000",1-3 Months,Low,6.7%,Debt (Liquid),"T-Bills, Repo",Any
+DSP Savings,25-70,₹500,1-3 Years,Moderate,9.8%,Hybrid,Balanced Debt/Equity,₹3L+
+HDFC Multi Cap,25-55,₹500,5+ Yrs,Very High,16%,Multi Cap,Digital Services,₹4L+
+Nippon Savings,25-70,₹500,1-3 Years,Moderate,9.4%,Hybrid,Balanced Debt/Equity,₹3L+
+IDFC Mid Cap,25-55,₹500,5+ Yrs,Very High,19%,Small Cap,Consumer Goods,₹4L+
+HDFC Liquid,18-80,"₹1,000",1-3 Months,Low,7.5%,Debt (Liquid),"T-Bills, Repo",Any
+Kotak Savings,25-70,₹500,1-3 Years,Moderate,8.6%,Hybrid,Balanced Debt/Equity,₹3L+
+Invesco Small Cap,25-55,₹500,5+ Yrs,Very High,19%,Multi Cap,Consumer Goods,₹4L+
+HDFC Mid Cap,25-55,₹500,5+ Yrs,Very High,17%,Large Cap,Automobile,₹4L+
+Aditya Birla Liquid,18-80,"₹1,000",1-3 Months,Low,7.3%,Debt (Liquid),"T-Bills, Repo",Any
+UTI Savings,25-70,₹500,1-3 Years,Moderate,11.2%,Hybrid,Balanced Debt/Equity,₹3L+
+Mirae Large Cap,25-55,₹500,5+ Yrs,Very High,20%,Flexi Cap,Infrastructure,₹4L+
+HDFC Multi Cap,25-55,₹500,5+ Yrs,Very High,15%,Flexi Cap,Consumer Goods,₹4L+
+Invesco Savings,25-70,₹500,1-3 Years,Moderate,8.8%,Hybrid,Balanced Debt/Equity,₹3L+
+Invesco Liquid,18-80,"₹1,000",1-3 Months,Low,7.0%,Debt (Liquid),"T-Bills, Repo",Any
+Nippon Savings,25-70,₹500,1-3 Years,Moderate,11.5%,Hybrid,Balanced Debt/Equity,₹3L+
+DSP Savings,25-70,₹500,1-3 Years,Moderate,8.8%,Hybrid,Balanced Debt/Equity,₹3L+
+Canara Savings,25-70,₹500,1-3 Years,Moderate,11.3%,Hybrid,Balanced Debt/Equity,₹3L+
+Tata Liquid,18-80,"₹1,000",1-3 Months,Low,6.0%,Debt (Liquid),"T-Bills, Repo",Any
+Quant Multi Cap,25-55,₹500,5+ Yrs,Very High,20%,Small Cap,"Pharma, Tech",₹4L+
+Kotak Liquid,18-80,"₹1,000",1-3 Months,Low,6.7%,Debt (Liquid),"T-Bills, Repo",Any
+Kotak Savings,25-70,₹500,1-3 Years,Moderate,10.4%,Hybrid,Balanced Debt/Equity,₹3L+
+SBI Liquid,18-80,"₹1,000",1-3 Months,Low,6.7%,Debt (Liquid),"T-Bills, Repo",Any
+Axis Savings,25-70,₹500,1-3 Years,Moderate,8.6%,Hybrid,Balanced Debt/Equity,₹3L+
+Aditya Birla Savings,25-70,₹500,1-3 Years,Moderate,8.6%,Hybrid,Balanced Debt/Equity,₹3L+
+UTI Savings,25-70,₹500,1-3 Years,Moderate,10.5%,Hybrid,Balanced Debt/Equity,₹3L+
+ICICI Small Cap,25-55,₹500,5+ Yrs,Very High,17%,Small Cap,Automobile,₹4L+
+IDFC Savings,25-70,₹500,1-3 Years,Moderate,10.4%,Hybrid,Balanced Debt/Equity,₹3L+
+Tata Small Cap,25-55,₹500,5+ Yrs,Very High,14%,Large Cap,Digital Services,₹4L+
+Tata Flexi Cap,25-55,₹500,5+ Yrs,Very High,15%,Flexi Cap,Energy & Oil,₹4L+
+SBI Savings,25-70,₹500,1-3 Years,Moderate,9.5%,Hybrid,Balanced Debt/Equity,₹3L+
+Canara Savings,25-70,₹500,1-3 Years,Moderate,10.9%,Hybrid,Balanced Debt/Equity,₹3L+
+Axis Multi Cap,25-55,₹500,5+ Yrs,Very High,21%,Large Cap,"BFSI, IT",₹4L+
+IDFC Savings,25-70,₹500,1-3 Years,Moderate,10.2%,Hybrid,Balanced Debt/Equity,₹3L+
+Axis Small Cap,25-55,₹500,5+ Yrs,Very High,21%,Flexi Cap,Infrastructure,₹4L+
+Axis Savings,25-70,₹500,1-3 Years,Moderate,9.4%,Hybrid,Balanced Debt/Equity,₹3L+
+Invesco Liquid,18-80,"₹1,000",1-3 Months,Low,7.2%,Debt (Liquid),"T-Bills, Repo",Any
+Tata Liquid,18-80,"₹1,000",1-3 Months,Low,6.6%,Debt (Liquid),"T-Bills, Repo",Any
+UTI Savings,25-70,₹500,1-3 Years,Moderate,10.3%,Hybrid,Balanced Debt/Equity,₹3L+
+Aditya Birla Liquid,18-80,"₹1,000",1-3 Months,Low,6.6%,Debt (Liquid),"T-Bills, Repo",Any
+Quant Savings,25-70,₹500,1-3 Years,Moderate,9.6%,Hybrid,Balanced Debt/Equity,₹3L+
+Aditya Birla Liquid,18-80,"₹1,000",1-3 Months,Low,6.2%,Debt (Liquid),"T-Bills, Repo",Any
+Mirae Savings,25-70,₹500,1-3 Years,Moderate,10.9%,Hybrid,Balanced Debt/Equity,₹3L+
+IDFC Savings,25-70,₹500,1-3 Years,Moderate,11.1%,Hybrid,Balanced Debt/Equity,₹3L+
+Aditya Birla Liquid,18-80,"₹1,000",1-3 Months,Low,6.3%,Debt (Liquid),"T-Bills, Repo",Any
+Axis Savings,25-70,₹500,1-3 Years,Moderate,10.3%,Hybrid,Balanced Debt/Equity,₹3L+
+IDFC Large Cap,25-55,₹500,5+ Yrs,Very High,14%,Flexi Cap,Energy & Oil,₹4L+
+Invesco Liquid,18-80,"₹1,000",1-3 Months,Low,6.4%,Debt (Liquid),"T-Bills, Repo",Any
+Aditya Birla Liquid,18-80,"₹1,000",1-3 Months,Low,6.1%,Debt (Liquid),"T-Bills, Repo",Any
+Canara Savings,25-70,₹500,1-3 Years,Moderate,9.3%,Hybrid,Balanced Debt/Equity,₹3L+
+Aditya Birla Liquid,18-80,"₹1,000",1-3 Months,Low,6.4%,Debt (Liquid),"T-Bills, Repo",Any
+HDFC Savings,25-70,₹500,1-3 Years,Moderate,10.7%,Hybrid,Balanced Debt/Equity,₹3L+
+Invesco Liquid,18-80,"₹1,000",1-3 Months,Low,6.2%,Debt (Liquid),"T-Bills, Repo",Any
+SBI Savings,25-70,₹500,1-3 Years,Moderate,10.4%,Hybrid,Balanced Debt/Equity,₹3L+
+IDFC Savings,25-70,₹500,1-3 Years,Moderate,9.2%,Hybrid,Balanced Debt/Equity,₹3L+
+Quant Liquid,18-80,"₹1,000",1-3 Months,Low,6.2%,Debt (Liquid),"T-Bills, Repo",Any
+HDFC Liquid,18-80,"₹1,000",1-3 Months,Low,6.8%,Debt (Liquid),"T-Bills, Repo",Any
+Axis Liquid,18-80,"₹1,000",1-3 Months,Low,6.7%,Debt (Liquid),"T-Bills, Repo",Any
+Aditya Birla Liquid,18-80,"₹1,000",1-3 Months,Low,7.4%,Debt (Liquid),"T-Bills, Repo",Any
+Mirae Large Cap,25-55,₹500,5+ Yrs,Very High,15%,Small Cap,Digital Services,₹4L+
+Canara Savings,25-70,₹500,1-3 Years,Moderate,9.4%,Hybrid,Balanced Debt/Equity,₹3L+
+Invesco Liquid,18-80,"₹1,000",1-3 Months,Low,7.2%,Debt (Liquid),"T-Bills, Repo",Any
+Kotak Liquid,18-80,"₹1,000",1-3 Months,Low,6.6%,Debt (Liquid),"T-Bills, Repo",Any
+Nippon Savings,25-70,₹500,1-3 Years,Moderate,11.5%,Hybrid,Balanced Debt/Equity,₹3L+
+Aditya Birla Multi Cap,25-55,₹500,5+ Yrs,Very High,20%,Flexi Cap,"Pharma, Tech",₹4L+
+IDFC Flexi Cap,25-55,₹500,5+ Yrs,Very High,14%,Mid Cap,"Pharma, Tech",₹4L+
+Invesco Savings,25-70,₹500,1-3 Years,Moderate,11.3%,Hybrid,Balanced Debt/Equity,₹3L+
+Quant Liquid,18-80,"₹1,000",1-3 Months,Low,7.1%,Debt (Liquid),"T-Bills, Repo",Any
+SBI Liquid,18-80,"₹1,000",1-3 Months,Low,6.5%,Debt (Liquid),"T-Bills, Repo",Any
+ICICI Savings,25-70,₹500,1-3 Years,Moderate,8.6%,Hybrid,Balanced Debt/Equity,₹3L+
+UTI Savings,25-70,₹500,1-3 Years,Moderate,9.1%,Hybrid,Balanced Debt/Equity,₹3L+
+Invesco Savings,25-70,₹500,1-3 Years,Moderate,8.8%,Hybrid,Balanced Debt/Equity,₹3L+
+UTI Savings,25-70,₹500,1-3 Years,Moderate,10.5%,Hybrid,Balanced Debt/Equity,₹3L+
+DSP Flexi Cap,25-55,₹500,5+ Yrs,Very High,14%,Small Cap,Infrastructure,₹4L+
+UTI Liquid,18-80,"₹1,000",1-3 Months,Low,7.2%,Debt (Liquid),"T-Bills, Repo",Any
+SBI Flexi Cap,25-55,₹500,5+ Yrs,Very High,21%,Flexi Cap,Automobile,₹4L+
+Mirae Multi Cap,25-55,₹500,5+ Yrs,Very High,16%,Small Cap,Digital Services,₹4L+
+Quant Small Cap,25-55,₹500,5+ Yrs,Very High,19%,Multi Cap,Digital Services,₹4L+
+UTI Liquid,18-80,"₹1,000",1-3 Months,Low,7.5%,Debt (Liquid),"T-Bills, Repo",Any
+Kotak Mid Cap,25-55,₹500,5+ Yrs,Very High,19%,Multi Cap,"Pharma, Tech",₹4L+
+Mirae Liquid,18-80,"₹1,000",1-3 Months,Low,7.5%,Debt (Liquid),"T-Bills, Repo",Any
+Invesco Liquid,18-80,"₹1,000",1-3 Months,Low,6.9%,Debt (Liquid),"T-Bills, Repo",Any
+Tata Liquid,18-80,"₹1,000",1-3 Months,Low,7.3%,Debt (Liquid),"T-Bills, Repo",Any
+Kotak Liquid,18-80,"₹1,000",1-3 Months,Low,6.8%,Debt (Liquid),"T-Bills, Repo",Any
+Quant Savings,25-70,₹500,1-3 Years,Moderate,8.6%,Hybrid,Balanced Debt/Equity,₹3L+
+Tata Savings,25-70,₹500,1-3 Years,Moderate,9.1%,Hybrid,Balanced Debt/Equity,₹3L+
+Nippon Liquid,18-80,"₹1,000",1-3 Months,Low,6.7%,Debt (Liquid),"T-Bills, Repo",Any
+IDFC Large Cap,25-55,₹500,5+ Yrs,Very High,17%,Multi Cap,"Pharma, Tech",₹4L+
+Tata Flexi Cap,25-55,₹500,5+ Yrs,Very High,16%,Small Cap,Energy & Oil,₹4L+
+DSP Savings,25-70,₹500,1-3 Years,Moderate,9.9%,Hybrid,Balanced Debt/Equity,₹3L+
+Aditya Birla Savings,25-70,₹500,1-3 Years,Moderate,9.8%,Hybrid,Balanced Debt/Equity,₹3L+
+Canara Savings,25-70,₹500,1-3 Years,Moderate,9.2%,Hybrid,Balanced Debt/Equity,₹3L+
+Aditya Birla Liquid,18-80,"₹1,000",1-3 Months,Low,6.4%,Debt (Liquid),"T-Bills, Repo",Any
+Aditya Birla Small Cap,25-55,₹500,5+ Yrs,Very High,17%,Large Cap,Digital Services,₹4L+
+ICICI Savings,25-70,₹500,1-3 Years,Moderate,9.2%,Hybrid,Balanced Debt/Equity,₹3L+
+Mirae Multi Cap,25-55,₹500,5+ Yrs,Very High,18%,Mid Cap,Consumer Goods,₹4L+
+Canara Savings,25-70,₹500,1-3 Years,Moderate,8.8%,Hybrid,Balanced Debt/Equity,₹3L+
+SBI Liquid,18-80,"₹1,000",1-3 Months,Low,7.5%,Debt (Liquid),"T-Bills, Repo",Any
+IDFC Liquid,18-80,"₹1,000",1-3 Months,Low,6.9%,Debt (Liquid),"T-Bills, Repo",Any
+HDFC Small Cap,25-55,₹500,5+ Yrs,Very High,21%,Multi Cap,Consumer Goods,₹4L+
+Kotak Liquid,18-80,"₹1,000",1-3 Months,Low,6.3%,Debt (Liquid),"T-Bills, Repo",Any
+Axis Savings,25-70,₹500,1-3 Years,Moderate,9.8%,Hybrid,Balanced Debt/Equity,₹3L+
+ICICI Savings,25-70,₹500,1-3 Years,Moderate,10.0%,Hybrid,Balanced Debt/Equity,₹3L+
+Tata Liquid,18-80,"₹1,000",1-3 Months,Low,7.0%,Debt (Liquid),"T-Bills, Repo",Any
+HDFC Liquid,18-80,"₹1,000",1-3 Months,Low,6.5%,Debt (Liquid),"T-Bills, Repo",Any
+Invesco Liquid,18-80,"₹1,000",1-3 Months,Low,6.5%,Debt (Liquid),"T-Bills, Repo",Any
+Tata Large Cap,25-55,₹500,5+ Yrs,Very High,20%,Large Cap,Digital Services,₹4L+
+Quant Liquid,18-80,"₹1,000",1-3 Months,Low,7.3%,Debt (Liquid),"T-Bills, Repo",Any
+Quant Liquid,18-80,"₹1,000",1-3 Months,Low,7.2%,Debt (Liquid),"T-Bills, Repo",Any
+Aditya Birla Liquid,18-80,"₹1,000",1-3 Months,Low,7.1%,Debt (Liquid),"T-Bills, Repo",Any
+HDFC Liquid,18-80,"₹1,000",1-3 Months,Low,6.2%,Debt (Liquid),"T-Bills, Repo",Any
+Aditya Birla Liquid,18-80,"₹1,000",1-3 Months,Low,6.1%,Debt (Liquid),"T-Bills, Repo",Any
+DSP Savings,25-70,₹500,1-3 Years,Moderate,10.5%,Hybrid,Balanced Debt/Equity,₹3L+
+Tata Savings,25-70,₹500,1-3 Years,Moderate,10.9%,Hybrid,Balanced Debt/Equity,₹3L+
+Aditya Birla Liquid,18-80,"₹1,000",1-3 Months,Low,6.2%,Debt (Liquid),"T-Bills, Repo",Any
+ICICI Savings,25-70,₹500,1-3 Years,Moderate,10.2%,Hybrid,Balanced Debt/Equity,₹3L+
+Nippon Savings,25-70,₹500,1-3 Years,Moderate,10.2%,Hybrid,Balanced Debt/Equity,₹3L+
+Invesco Small Cap,25-55,₹500,5+ Yrs,Very High,16%,Multi Cap,"BFSI, IT",₹4L+
+Axis Savings,25-70,₹500,1-3 Years,Moderate,9.7%,Hybrid,Balanced Debt/Equity,₹3L+
+Axis Savings,25-70,₹500,1-3 Years,Moderate,8.8%,Hybrid,Balanced Debt/Equity,₹3L+
+UTI Liquid,18-80,"₹1,000",1-3 Months,Low,6.7%,Debt (Liquid),"T-Bills, Repo",Any
+ICICI Savings,25-70,₹500,1-3 Years,Moderate,10.0%,Hybrid,Balanced Debt/Equity,₹3L+
+Mirae Liquid,18-80,"₹1,000",1-3 Months,Low,6.5%,Debt (Liquid),"T-Bills, Repo",Any
+Nippon Savings,25-70,₹500,1-3 Years,Moderate,9.8%,Hybrid,Balanced Debt/Equity,₹3L+
+IDFC Savings,25-70,₹500,1-3 Years,Moderate,9.1%,Hybrid,Balanced Debt/Equity,₹3L+
+UTI Savings,25-70,₹500,1-3 Years,Moderate,10.1%,Hybrid,Balanced Debt/Equity,₹3L+
+Nippon Mid Cap,25-55,₹500,5+ Yrs,Very High,21%,Small Cap,Automobile,₹4L+
+DSP Liquid,18-80,"₹1,000",1-3 Months,Low,7.5%,Debt (Liquid),"T-Bills, Repo",Any
+Canara Liquid,18-80,"₹1,000",1-3 Months,Low,6.4%,Debt (Liquid),"T-Bills, Repo",Any
+Quant Liquid,18-80,"₹1,000",1-3 Months,Low,7.0%,Debt (Liquid),"T-Bills, Repo",Any
+Tata Large Cap,25-55,₹500,5+ Yrs,Very High,21%,Large Cap,Consumer Goods,₹4L+
+Axis Liquid,18-80,"₹1,000",1-3 Months,Low,6.6%,Debt (Liquid),"T-Bills, Repo",Any
+Canara Large Cap,25-55,₹500,5+ Yrs,Very High,16%,Small Cap,Infrastructure,₹4L+
+IDFC Mid Cap,25-55,₹500,5+ Yrs,Very High,17%,Flexi Cap,Infrastructure,₹4L+
+SBI Mid Cap,25-55,₹500,5+ Yrs,Very High,14%,Mid Cap,Consumer Goods,₹4L+
+Invesco Savings,25-70,₹500,1-3 Years,Moderate,9.3%,Hybrid,Balanced Debt/Equity,₹3L+
+HDFC Savings,25-70,₹500,1-3 Years,Moderate,11.2%,Hybrid,Balanced Debt/Equity,₹3L+
+Axis Mid Cap,25-55,₹500,5+ Yrs,Very High,18%,Multi Cap,Automobile,₹4L+
+Kotak Savings,25-70,₹500,1-3 Years,Moderate,9.3%,Hybrid,Balanced Debt/Equity,₹3L+
+UTI Large Cap,25-55,₹500,5+ Yrs,Very High,19%,Large Cap,Digital Services,₹4L+
+Nippon Large Cap,25-55,₹500,5+ Yrs,Very High,21%,Mid Cap,Digital Services,₹4L+
+Quant Savings,25-70,₹500,1-3 Years,Moderate,11.4%,Hybrid,Balanced Debt/Equity,₹3L+
+Nippon Small Cap,25-55,₹500,5+ Yrs,Very High,16%,Multi Cap,Consumer Goods,₹4L+
+ICICI Savings,25-70,₹500,1-3 Years,Moderate,11.0%,Hybrid,Balanced Debt/Equity,₹3L+
+Mirae Liquid,18-80,"₹1,000",1-3 Months,Low,6.9%,Debt (Liquid),"T-Bills, Repo",Any
+Axis Small Cap,25-55,₹500,5+ Yrs,Very High,20%,Flexi Cap,"BFSI, IT",₹4L+
+Kotak Savings,25-70,₹500,1-3 Years,Moderate,10.0%,Hybrid,Balanced Debt/Equity,₹3L+
+SBI Small Cap,25-55,₹500,5+ Yrs,Very High,19%,Mid Cap,Digital Services,₹4L+
+Kotak Savings,25-70,₹500,1-3 Years,Moderate,11.0%,Hybrid,Balanced Debt/Equity,₹3L+
+Kotak Liquid,18-80,"₹1,000",1-3 Months,Low,6.6%,Debt (Liquid),"T-Bills, Repo",Any
+DSP Savings,25-70,₹500,1-3 Years,Moderate,10.8%,Hybrid,Balanced Debt/Equity,₹3L+
+Quant Large Cap,25-55,₹500,5+ Yrs,Very High,17%,Multi Cap,Automobile,₹4L+
+IDFC Liquid,18-80,"₹1,000",1-3 Months,Low,6.9%,Debt (Liquid),"T-Bills, Repo",Any
+SBI Savings,25-70,₹500,1-3 Years,Moderate,9.1%,Hybrid,Balanced Debt/Equity,₹3L+
+HDFC Savings,25-70,₹500,1-3 Years,Moderate,10.4%,Hybrid,Balanced Debt/Equity,₹3L+
+Nippon Savings,25-70,₹500,1-3 Years,Moderate,9.7%,Hybrid,Balanced Debt/Equity,₹3L+
+Axis Small Cap,25-55,₹500,5+ Yrs,Very High,19%,Flexi Cap,Consumer Goods,₹4L+
+Canara Savings,25-70,₹500,1-3 Years,Moderate,9.5%,Hybrid,Balanced Debt/Equity,₹3L+
+Kotak Mid Cap,25-55,₹500,5+ Yrs,Very High,19%,Small Cap,"BFSI, IT",₹4L+
+Kotak Savings,25-70,₹500,1-3 Years,Moderate,9.3%,Hybrid,Balanced Debt/Equity,₹3L+
+ICICI Savings,25-70,₹500,1-3 Years,Moderate,10.9%,Hybrid,Balanced Debt/Equity,₹3L+
+UTI Liquid,18-80,"₹1,000",1-3 Months,Low,6.4%,Debt (Liquid),"T-Bills, Repo",Any
+Mirae Liquid,18-80,"₹1,000",1-3 Months,Low,6.1%,Debt (Liquid),"T-Bills, Repo",Any
+Invesco Savings,25-70,₹500,1-3 Years,Moderate,8.7%,Hybrid,Balanced Debt/Equity,₹3L+
+Axis Multi Cap,25-55,₹500,5+ Yrs,Very High,14%,Mid Cap,"Pharma, Tech",₹4L+
+DSP Savings,25-70,₹500,1-3 Years,Moderate,9.9%,Hybrid,Balanced Debt/Equity,₹3L+
+Canara Flexi Cap,25-55,₹500,5+ Yrs,Very High,16%,Flexi Cap,Energy & Oil,₹4L+
+ICICI Liquid,18-80,"₹1,000",1-3 Months,Low,6.7%,Debt (Liquid),"T-Bills, Repo",Any
+Canara Flexi Cap,25-55,₹500,5+ Yrs,Very High,21%,Large Cap,Energy & Oil,₹4L+
+Aditya Birla Liquid,18-80,"₹1,000",1-3 Months,Low,6.1%,Debt (Liquid),"T-Bills, Repo",Any
+ICICI Mid Cap,25-55,₹500,5+ Yrs,Very High,17%,Small Cap,"BFSI, IT",₹4L+
+Nippon Liquid,18-80,"₹1,000",1-3 Months,Low,7.1%,Debt (Liquid),"T-Bills, Repo",Any
+ICICI Savings,25-70,₹500,1-3 Years,Moderate,11.5%,Hybrid,Balanced Debt/Equity,₹3L+
+Canara Savings,25-70,₹500,1-3 Years,Moderate,10.9%,Hybrid,Balanced Debt/Equity,₹3L+
+Axis Flexi Cap,25-55,₹500,5+ Yrs,Very High,20%,Mid Cap,Consumer Goods,₹4L+
+Invesco Savings,25-70,₹500,1-3 Years,Moderate,10.7%,Hybrid,Balanced Debt/Equity,₹3L+
+Tata Flexi Cap,25-55,₹500,5+ Yrs,Very High,21%,Large Cap,Energy & Oil,₹4L+
+IDFC Large Cap,25-55,₹500,5+ Yrs,Very High,20%,Flexi Cap,Consumer Goods,₹4L+
+Quant Small Cap,25-55,₹500,5+ Yrs,Very High,14%,Large Cap,"Pharma, Tech",₹4L+
+Nippon Savings,25-70,₹500,1-3 Years,Moderate,11.0%,Hybrid,Balanced Debt/Equity,₹3L+
+Aditya Birla Multi Cap,25-55,₹500,5+ Yrs,Very High,19%,Mid Cap,"Pharma, Tech",₹4L+
+Canara Multi Cap,25-55,₹500,5+ Yrs,Very High,17%,Multi Cap,Infrastructure,₹4L+
+Mirae Liquid,18-80,"₹1,000",1-3 Months,Low,6.7%,Debt (Liquid),"T-Bills, Repo",Any
+Quant Flexi Cap,25-55,₹500,5+ Yrs,Very High,15%,Mid Cap,Energy & Oil,₹4L+
+Nippon Liquid,18-80,"₹1,000",1-3 Months,Low,6.2%,Debt (Liquid),"T-Bills, Repo",Any
+UTI Liquid,18-80,"₹1,000",1-3 Months,Low,7.4%,Debt (Liquid),"T-Bills, Repo",Any
+Kotak Multi Cap,25-55,₹500,5+ Yrs,Very High,16%,Small Cap,Digital Services,₹4L+
+Quant Liquid,18-80,"₹1,000",1-3 Months,Low,6.8%,Debt (Liquid),"T-Bills, Repo",Any
+Canara Savings,25-70,₹500,1-3 Years,Moderate,9.0%,Hybrid,Balanced Debt/Equity,₹3L+
+IDFC Liquid,18-80,"₹1,000",1-3 Months,Low,6.6%,Debt (Liquid),"T-Bills, Repo",Any
+Canara Large Cap,25-55,₹500,5+ Yrs,Very High,21%,Mid Cap,Energy & Oil,₹4L+
+DSP Large Cap,25-55,₹500,5+ Yrs,Very High,21%,Mid Cap,Energy & Oil,₹4L+
+Invesco Mid Cap,25-55,₹500,5+ Yrs,Very High,15%,Large Cap,"Pharma, Tech",₹4L+
+IDFC Savings,25-70,₹500,1-3 Years,Moderate,9.9%,Hybrid,Balanced Debt/Equity,₹3L+
+Nippon Flexi Cap,25-55,₹500,5+ Yrs,Very High,15%,Mid Cap,Automobile,₹4L+
+HDFC Large Cap,25-55,₹500,5+ Yrs,Very High,18%,Mid Cap,Automobile,₹4L+
+IDFC Small Cap,25-55,₹500,5+ Yrs,Very High,19%,Large Cap,Digital Services,₹4L+
+Axis Liquid,18-80,"₹1,000",1-3 Months,Low,7.4%,Debt (Liquid),"T-Bills, Repo",Any
+UTI Liquid,18-80,"₹1,000",1-3 Months,Low,6.7%,Debt (Liquid),"T-Bills, Repo",Any
+Tata Liquid,18-80,"₹1,000",1-3 Months,Low,6.2%,Debt (Liquid),"T-Bills, Repo",Any
+Nippon Savings,25-70,₹500,1-3 Years,Moderate,9.9%,Hybrid,Balanced Debt/Equity,₹3L+
+Mirae Savings,25-70,₹500,1-3 Years,Moderate,11.2%,Hybrid,Balanced Debt/Equity,₹3L+
+Mirae Liquid,18-80,"₹1,000",1-3 Months,Low,6.7%,Debt (Liquid),"T-Bills, Repo",Any
+SBI Flexi Cap,25-55,₹500,5+ Yrs,Very High,20%,Large Cap,"BFSI, IT",₹4L+
+Tata Savings,25-70,₹500,1-3 Years,Moderate,8.5%,Hybrid,Balanced Debt/Equity,₹3L+
+Invesco Small Cap,25-55,₹500,5+ Yrs,Very High,19%,Multi Cap,"Pharma, Tech",₹4L+
+Quant Liquid,18-80,"₹1,000",1-3 Months,Low,7.1%,Debt (Liquid),"T-Bills, Repo",Any
+Kotak Multi Cap,25-55,₹500,5+ Yrs,Very High,16%,Mid Cap,Energy & Oil,₹4L+
+Canara Liquid,18-80,"₹1,000",1-3 Months,Low,7.3%,Debt (Liquid),"T-Bills, Repo",Any
+Kotak Large Cap,25-55,₹500,5+ Yrs,Very High,21%,Flexi Cap,Automobile,₹4L+
+Tata Savings,25-70,₹500,1-3 Years,Moderate,10.0%,Hybrid,Balanced Debt/Equity,₹3L+
+DSP Liquid,18-80,"₹1,000",1-3 Months,Low,7.0%,Debt (Liquid),"T-Bills, Repo",Any
+Aditya Birla Multi Cap,25-55,₹500,5+ Yrs,Very High,21%,Large Cap,"Pharma, Tech",₹4L+
+Canara Savings,25-70,₹500,1-3 Years,Moderate,10.0%,Hybrid,Balanced Debt/Equity,₹3L+
+UTI Small Cap,25-55,₹500,5+ Yrs,Very High,16%,Flexi Cap,"BFSI, IT",₹4L+
+IDFC Savings,25-70,₹500,1-3 Years,Moderate,8.8%,Hybrid,Balanced Debt/Equity,₹3L+
+Mirae Savings,25-70,₹500,1-3 Years,Moderate,8.5%,Hybrid,Balanced Debt/Equity,₹3L+
+Canara Mid Cap,25-55,₹500,5+ Yrs,Very High,17%,Flexi Cap,"Pharma, Tech",₹4L+
+Nippon Savings,25-70,₹500,1-3 Years,Moderate,9.3%,Hybrid,Balanced Debt/Equity,₹3L+
+Mirae Savings,25-70,₹500,1-3 Years,Moderate,9.1%,Hybrid,Balanced Debt/Equity,₹3L+
+Aditya Birla Savings,25-70,₹500,1-3 Years,Moderate,10.7%,Hybrid,Balanced Debt/Equity,₹3L+
+Kotak Savings,25-70,₹500,1-3 Years,Moderate,8.6%,Hybrid,Balanced Debt/Equity,₹3L+
+Quant Savings,25-70,₹500,1-3 Years,Moderate,11.2%,Hybrid,Balanced Debt/Equity,₹3L+
+Invesco Savings,25-70,₹500,1-3 Years,Moderate,11.2%,Hybrid,Balanced Debt/Equity,₹3L+
+Tata Liquid,18-80,"₹1,000",1-3 Months,Low,6.8%,Debt (Liquid),"T-Bills, Repo",Any
+SBI Small Cap,25-55,₹500,5+ Yrs,Very High,14%,Large Cap,Consumer Goods,₹4L+
+Invesco Large Cap,25-55,₹500,5+ Yrs,Very High,16%,Large Cap,Infrastructure,₹4L+
+Aditya Birla Liquid,18-80,"₹1,000",1-3 Months,Low,6.2%,Debt (Liquid),"T-Bills, Repo",Any
+IDFC Savings,25-70,₹500,1-3 Years,Moderate,9.3%,Hybrid,Balanced Debt/Equity,₹3L+
+Axis Liquid,18-80,"₹1,000",1-3 Months,Low,7.4%,Debt (Liquid),"T-Bills, Repo",Any
+SBI Mid Cap,25-55,₹500,5+ Yrs,Very High,20%,Multi Cap,Energy & Oil,₹4L+
+Invesco Savings,25-70,₹500,1-3 Years,Moderate,11.2%,Hybrid,Balanced Debt/Equity,₹3L+
+IDFC Savings,25-70,₹500,1-3 Years,Moderate,11.3%,Hybrid,Balanced Debt/Equity,₹3L+
+IDFC Small Cap,25-55,₹500,5+ Yrs,Very High,18%,Mid Cap,"Pharma, Tech",₹4L+
+Kotak Small Cap,25-55,₹500,5+ Yrs,Very High,19%,Multi Cap,"Pharma, Tech",₹4L+
+UTI Multi Cap,25-55,₹500,5+ Yrs,Very High,17%,Mid Cap,"BFSI, IT",₹4L+
+SBI Savings,25-70,₹500,1-3 Years,Moderate,8.8%,Hybrid,Balanced Debt/Equity,₹3L+
+ICICI Savings,25-70,₹500,1-3 Years,Moderate,10.6%,Hybrid,Balanced Debt/Equity,₹3L+
+Aditya Birla Savings,25-70,₹500,1-3 Years,Moderate,11.0%,Hybrid,Balanced Debt/Equity,₹3L+
+Kotak Flexi Cap,25-55,₹500,5+ Yrs,Very High,20%,Multi Cap,Energy & Oil,₹4L+
+HDFC Liquid,18-80,"₹1,000",1-3 Months,Low,6.5%,Debt (Liquid),"T-Bills, Repo",Any
+UTI Mid Cap,25-55,₹500,5+ Yrs,Very High,19%,Large Cap,Infrastructure,₹4L+
+ICICI Savings,25-70,₹500,1-3 Years,Moderate,8.7%,Hybrid,Balanced Debt/Equity,₹3L+
+DSP Small Cap,25-55,₹500,5+ Yrs,Very High,18%,Large Cap,Infrastructure,₹4L+
+Canara Liquid,18-80,"₹1,000",1-3 Months,Low,6.6%,Debt (Liquid),"T-Bills, Repo",Any
+Tata Large Cap,25-55,₹500,5+ Yrs,Very High,14%,Multi Cap,"Pharma, Tech",₹4L+
+Nippon Liquid,18-80,"₹1,000",1-3 Months,Low,6.4%,Debt (Liquid),"T-Bills, Repo",Any
+Canara Liquid,18-80,"₹1,000",1-3 Months,Low,7.4%,Debt (Liquid),"T-Bills, Repo",Any
+DSP Liquid,18-80,"₹1,000",1-3 Months,Low,6.1%,Debt (Liquid),"T-Bills, Repo",Any
+Aditya Birla Savings,25-70,₹500,1-3 Years,Moderate,10.7%,Hybrid,Balanced Debt/Equity,₹3L+
+Axis Liquid,18-80,"₹1,000",1-3 Months,Low,6.3%,Debt (Liquid),"T-Bills, Repo",Any
+ICICI Liquid,18-80,"₹1,000",1-3 Months,Low,6.4%,Debt (Liquid),"T-Bills, Repo",Any
+Mirae Savings,25-70,₹500,1-3 Years,Moderate,8.9%,Hybrid,Balanced Debt/Equity,₹3L+
+Canara Multi Cap,25-55,₹500,5+ Yrs,Very High,21%,Flexi Cap,Energy & Oil,₹4L+
+Tata Mid Cap,25-55,₹500,5+ Yrs,Very High,18%,Mid Cap,Automobile,₹4L+
+UTI Flexi Cap,25-55,₹500,5+ Yrs,Very High,15%,Mid Cap,Digital Services,₹4L+
+Quant Liquid,18-80,"₹1,000",1-3 Months,Low,6.8%,Debt (Liquid),"T-Bills, Repo",Any
+Nippon Liquid,18-80,"₹1,000",1-3 Months,Low,6.5%,Debt (Liquid),"T-Bills, Repo",Any
+DSP Liquid,18-80,"₹1,000",1-3 Months,Low,6.5%,Debt (Liquid),"T-Bills, Repo",Any
+IDFC Liquid,18-80,"₹1,000",1-3 Months,Low,6.4%,Debt (Liquid),"T-Bills, Repo",Any
+DSP Liquid,18-80,"₹1,000",1-3 Months,Low,6.8%,Debt (Liquid),"T-Bills, Repo",Any
+HDFC Liquid,18-80,"₹1,000",1-3 Months,Low,7.3%,Debt (Liquid),"T-Bills, Repo",Any
+ICICI Liquid,18-80,"₹1,000",1-3 Months,Low,6.8%,Debt (Liquid),"T-Bills, Repo",Any
+Nippon Multi Cap,25-55,₹500,5+ Yrs,Very High,15%,Large Cap,Consumer Goods,₹4L+
+Nippon Flexi Cap,25-55,₹500,5+ Yrs,Very High,17%,Flexi Cap,"Pharma, Tech",₹4L+
+Axis Savings,25-70,₹500,1-3 Years,Moderate,10.7%,Hybrid,Balanced Debt/Equity,₹3L+
+SBI Large Cap,25-55,₹500,5+ Yrs,Very High,16%,Large Cap,Digital Services,₹4L+
+HDFC Liquid,18-80,"₹1,000",1-3 Months,Low,7.5%,Debt (Liquid),"T-Bills, Repo",Any
+ICICI Savings,25-70,₹500,1-3 Years,Moderate,8.9%,Hybrid,Balanced Debt/Equity,₹3L+
+ICICI Savings,25-70,₹500,1-3 Years,Moderate,9.9%,Hybrid,Balanced Debt/Equity,₹3L+
+Invesco Liquid,18-80,"₹1,000",1-3 Months,Low,7.1%,Debt (Liquid),"T-Bills, Repo",Any
+Aditya Birla Savings,25-70,₹500,1-3 Years,Moderate,10.7%,Hybrid,Balanced Debt/Equity,₹3L+
+HDFC Liquid,18-80,"₹1,000",1-3 Months,Low,7.2%,Debt (Liquid),"T-Bills, Repo",Any
+Invesco Flexi Cap,25-55,₹500,5+ Yrs,Very High,20%,Large Cap,"BFSI, IT",₹4L+
+Axis Savings,25-70,₹500,1-3 Years,Moderate,8.9%,Hybrid,Balanced Debt/Equity,₹3L+
+Invesco Savings,25-70,₹500,1-3 Years,Moderate,9.7%,Hybrid,Balanced Debt/Equity,₹3L+
+Mirae Savings,25-70,₹500,1-3 Years,Moderate,11.5%,Hybrid,Balanced Debt/Equity,₹3L+
+ICICI Liquid,18-80,"₹1,000",1-3 Months,Low,7.0%,Debt (Liquid),"T-Bills, Repo",Any
+Axis Liquid,18-80,"₹1,000",1-3 Months,Low,7.2%,Debt (Liquid),"T-Bills, Repo",Any
+Mirae Liquid,18-80,"₹1,000",1-3 Months,Low,6.5%,Debt (Liquid),"T-Bills, Repo",Any
+SBI Liquid,18-80,"₹1,000",1-3 Months,Low,7.2%,Debt (Liquid),"T-Bills, Repo",Any
+Quant Multi Cap,25-55,₹500,5+ Yrs,Very High,19%,Small Cap,Automobile,₹4L+
+Nippon Savings,25-70,₹500,1-3 Years,Moderate,9.8%,Hybrid,Balanced Debt/Equity,₹3L+
+Axis Liquid,18-80,"₹1,000",1-3 Months,Low,7.1%,Debt (Liquid),"T-Bills, Repo",Any
+IDFC Mid Cap,25-55,₹500,5+ Yrs,Very High,15%,Large Cap,Infrastructure,₹4L+
+Mirae Liquid,18-80,"₹1,000",1-3 Months,Low,6.8%,Debt (Liquid),"T-Bills, Repo",Any
+UTI Savings,25-70,₹500,1-3 Years,Moderate,11.4%,Hybrid,Balanced Debt/Equity,₹3L+
+Nippon Liquid,18-80,"₹1,000",1-3 Months,Low,6.7%,Debt (Liquid),"T-Bills, Repo",Any
+Nippon Savings,25-70,₹500,1-3 Years,Moderate,9.7%,Hybrid,Balanced Debt/Equity,₹3L+
+DSP Multi Cap,25-55,₹500,5+ Yrs,Very High,20%,Large Cap,Energy & Oil,₹4L+
+Kotak Multi Cap,25-55,₹500,5+ Yrs,Very High,18%,Large Cap,Consumer Goods,₹4L+
+Aditya Birla Flexi Cap,25-55,₹500,5+ Yrs,Very High,19%,Large Cap,Infrastructure,₹4L+
+DSP Liquid,18-80,"₹1,000",1-3 Months,Low,6.9%,Debt (Liquid),"T-Bills, Repo",Any
+HDFC Liquid,18-80,"₹1,000",1-3 Months,Low,7.1%,Debt (Liquid),"T-Bills, Repo",Any
+Canara Liquid,18-80,"₹1,000",1-3 Months,Low,6.9%,Debt (Liquid),"T-Bills, Repo",Any
+ICICI Savings,25-70,₹500,1-3 Years,Moderate,10.9%,Hybrid,Balanced Debt/Equity,₹3L+
+Quant Savings,25-70,₹500,1-3 Years,Moderate,9.1%,Hybrid,Balanced Debt/Equity,₹3L+
+Tata Savings,25-70,₹500,1-3 Years,Moderate,10.8%,Hybrid,Balanced Debt/Equity,₹3L+
+Axis Flexi Cap,25-55,₹500,5+ Yrs,Very High,15%,Mid Cap,Automobile,₹4L+
+SBI Savings,25-70,₹500,1-3 Years,Moderate,9.8%,Hybrid,Balanced Debt/Equity,₹3L+
+Canara Liquid,18-80,"₹1,000",1-3 Months,Low,6.9%,Debt (Liquid),"T-Bills, Repo",Any
+Quant Liquid,18-80,"₹1,000",1-3 Months,Low,6.2%,Debt (Liquid),"T-Bills, Repo",Any
+ICICI Liquid,18-80,"₹1,000",1-3 Months,Low,6.1%,Debt (Liquid),"T-Bills, Repo",Any
+ICICI Flexi Cap,25-55,₹500,5+ Yrs,Very High,21%,Large Cap,Consumer Goods,₹4L+
+Aditya Birla Savings,25-70,₹500,1-3 Years,Moderate,9.5%,Hybrid,Balanced Debt/Equity,₹3L+
+DSP Small Cap,25-55,₹500,5+ Yrs,Very High,21%,Large Cap,Digital Services,₹4L+
+Axis Liquid,18-80,"₹1,000",1-3 Months,Low,6.1%,Debt (Liquid),"T-Bills, Repo",Any
+Canara Savings,25-70,₹500,1-3 Years,Moderate,9.5%,Hybrid,Balanced Debt/Equity,₹3L+
+Axis Large Cap,25-55,₹500,5+ Yrs,Very High,19%,Small Cap,Energy & Oil,₹4L+
+Canara Small Cap,25-55,₹500,5+ Yrs,Very High,15%,Large Cap,Automobile,₹4L+
+Tata Small Cap,25-55,₹500,5+ Yrs,Very High,18%,Large Cap,"BFSI, IT",₹4L+
+ICICI Savings,25-70,₹500,1-3 Years,Moderate,10.0%,Hybrid,Balanced Debt/Equity,₹3L+
+Aditya Birla Savings,25-70,₹500,1-3 Years,Moderate,10.1%,Hybrid,Balanced Debt/Equity,₹3L+
+Axis Savings,25-70,₹500,1-3 Years,Moderate,10.9%,Hybrid,Balanced Debt/Equity,₹3L+
+Mirae Large Cap,25-55,₹500,5+ Yrs,Very High,17%,Small Cap,Digital Services,₹4L+
+Quant Liquid,18-80,"₹1,000",1-3 Months,Low,6.3%,Debt (Liquid),"T-Bills, Repo",Any
+Mirae Savings,25-70,₹500,1-3 Years,Moderate,9.2%,Hybrid,Balanced Debt/Equity,₹3L+
+SBI Multi Cap,25-55,₹500,5+ Yrs,Very High,21%,Flexi Cap,Digital Services,₹4L+
+Tata Savings,25-70,₹500,1-3 Years,Moderate,11.1%,Hybrid,Balanced Debt/Equity,₹3L+
+IDFC Small Cap,25-55,₹500,5+ Yrs,Very High,14%,Mid Cap,Infrastructure,₹4L+
+IDFC Large Cap,25-55,₹500,5+ Yrs,Very High,16%,Multi Cap,Energy & Oil,₹4L+
+Aditya Birla Small Cap,25-55,₹500,5+ Yrs,Very High,17%,Small Cap,Energy & Oil,₹4L+
